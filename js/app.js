@@ -1,4 +1,4 @@
-let userName = prompt("Please Enter Your Name:",'');
+let userName = prompt("Please Enter Your Name: ");
 
 if(userName.match(/[0-9]/)){
   alert("Username Should contain only characters");
